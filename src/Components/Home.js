@@ -1,8 +1,10 @@
 import React from "react";
+import Carousel from './Carousel';
 const Home = () => {
  return(
     <>
-      <h1>contact page</h1>
+      <h1>Welcome to Edutech center</h1>
+      <Carousel/>
     </>
  );
 };
